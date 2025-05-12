@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   imports: [],
   template: `
     <p>
-      header works!
+      This is the updated header component
     </p>
   `,
   styles: ``
